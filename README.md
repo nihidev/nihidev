@@ -10,6 +10,11 @@
 </p>
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/nihildev/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://nihildev.eu.cc"><img src="https://img.shields.io/badge/Website-nihildev.eu.cc-7DF9FF?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Website" /></a>
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=nihidev&style=flat-square&color=36BCF7&label=Profile+views" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/nihidev?style=flat-square&color=36BCF7" alt="Followers" />
 </p>
