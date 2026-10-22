@@ -75,21 +75,10 @@ principle:  "Verified correctness first. Then the speed of the loop."
   </tr>
 </table>
 
-### 📈 GitHub stats
+### 🏆 Tech stack scoreboard
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nihidev&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nihidev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=nihidev&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
-
-### 🌃 Contributions in 3D
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/nihidev/nihidev/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" />
+  <img src="./assets/tech-scoreboard.svg" alt="Tech stack scoreboard: languages by share of code, and frameworks ranked by how many of my repos use them" width="100%" />
 </p>
 
 ### 🐍 Contribution snake
