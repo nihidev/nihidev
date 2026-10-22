@@ -86,6 +86,12 @@ principle:  "Verified correctness first. Then the speed of the loop."
   <img src="https://streak-stats.demolab.com?user=nihidev&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
+### 🌃 Contributions in 3D
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nihidev/nihidev/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" />
+</p>
+
 ### 🐍 Contribution snake
 
 <p align="center">
